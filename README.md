@@ -32,12 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arezaei2002&" alt="arezaei2002" /></p>
 
-### ✍️Random Dev Quote
+<p>### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-![](https://komarev.com/ghpvc/?username=arezie2002&label=Visitors+Count&color=brightgreen)
 
