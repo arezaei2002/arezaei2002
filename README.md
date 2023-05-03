@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Ali Rezaei</h1>
 <h3 align="center">Self-taught computer vision enthusiast with expertise in Python and a passion for innovation</h3>
 
@@ -31,9 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arezaei2002&show_icons=true&locale=en" alt="arezaei2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arezaei2002&" alt="arezaei2002" /></p>
-
-<p>### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
-
-
